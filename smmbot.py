@@ -4,9 +4,9 @@ import time
 import random
 from datetime import datetime
 #your email
-email='hajdi42@gmail.com'
+email=' iancesar777@gmail.com'
 #password
-password='Zaxszaxs12'
+password='IANpogi777'
 #link if you need to sign up
 # www.smmshop.com/ptc-sites-pay-per-click?jobs_ref=0cbaf2b1f64178adf51fcf771146b20c
 
